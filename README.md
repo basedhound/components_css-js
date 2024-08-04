@@ -1,4 +1,5 @@
 <div align="center">
+<a href="/.design" target="_blank">
       <img src=".design/gallery-image-slider.png" alt="Project Banner">
     </a>
   <h3 align="center">Components - CSS / JavaScript</h3>
